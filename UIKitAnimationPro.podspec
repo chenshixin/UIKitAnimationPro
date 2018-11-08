@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
         s.source_files = 'UIKitAnimationPro/UIKitAnimation/*.{h,m}'
         s.requires_arc = true
         s.homepage     = 'https://github.com/demonnico/UIKitAnimationPro'
-        s.source       = { :git => 'ssh://git@github.com:chenshixin/UIKitAnimationPro.git' }
+        s.source       = { :git => 'https://github.com/chenshixin/UIKitAnimationPro.git' }
         s.author       = { 'Nicholas Tau' => 'https://twitter.com/demonnico' }
 
 end
